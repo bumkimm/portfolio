@@ -1,30 +1,30 @@
 진행한 프로젝트별 간략한 설명
 
 1. 강화학습 기반 자동주차 프로그램 제작
-   사용언어: C#
-   사용 툴: Unity, Anaconda
-   구현내용: PPO 알고리즘 기반 자동주차 강화학습 모델 제작
+사용언어: C#
+사용 툴: Unity, Anaconda
+구현내용: PPO 알고리즘 기반 자동주차 강화학습 모델 제작
 
 2. 강화학습 기반 드론 물건 배송 프로그램 제작
-   사용언어: C#
-   사용 툴: Unity, Anaconda
-   구현내용: PPO 알고리즘 기반 드론의 물건 배송 프로그램 제작
+사용언어: C#
+사용 툴: Unity, Anaconda
+구현내용: PPO 알고리즘 기반 드론의 물건 배송 프로그램 제작
 
 3. 웹페이지 개발
-   사용언어: HTML, Javascript
-   구현내용: HTML 기반의 쇼핑몰 웹사이트 제작
+사용언어: HTML, Javascript
+구현내용: HTML 기반의 쇼핑몰 웹사이트 제작
 
 4. Brity RPA 기반 재무보고서 제작
-   사용 툴: Brity RPA, Excel
-   구현내용: RPA 기반 데이터 정제 작업을 중심으로 수집한 재무 데이터 기반 보고서 제작
+사용 툴: Brity RPA, Excel
+구현내용: RPA 기반 데이터 정제 작업을 중심으로 수집한 재무 데이터 기반 보고서 제작
 
 5. Tkinter 기반 데이트 코스 추천 프로그램 제작
-   사용 언어: Python
-   사용 툴: TkInter
-   구현내용: 다익스트라 알고리즘을 적용한 형태의 경로 추천 시스템 기반 데이트 코스 정보 제공
+사용 언어: Python
+사용 툴: TkInter
+구현내용: 다익스트라 알고리즘을 적용한 형태의 경로 추천 시스템 기반 데이트 코스 정보 제공
 
 6. 반려동물 입양 애플리케이션 제작
-   사용 언어: Dart
-   사용 툴: Flutter, FireBase, Brity RPA, 서울시공공데이터(API)
-   링크: http://onesto.re/0001000622
-   구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작
+사용 언어: Dart
+사용 툴: Flutter, FireBase, Brity RPA, 서울시공공데이터(API)
+링크: http://onesto.re/0001000622
+구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작
