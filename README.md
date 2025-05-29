@@ -13,6 +13,7 @@
 3. 웹페이지 개발<br>
 사용언어: HTML, Javascript<br>
 구현내용: HTML 기반의 쇼핑몰 웹사이트 제작<br>
+링크: https://drive.google.com/file/d/12xXJGjbrWAu_Kpi7Qe-s1dmf2eRkQ_8w/view?usp=drive_link
 
 4. Brity RPA 기반 재무보고서 제작<br>
 사용 툴: Brity RPA, Excel<br>
