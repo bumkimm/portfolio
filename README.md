@@ -29,16 +29,17 @@
 <a href=https://github.com/bumkimm/portfolio/blob/main/Fina%20%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>Result</a><br>
 <a href=https://github.com/bumkimm/portfolio/blob/main/RPA%20%EC%9E%AC%EB%AC%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EB%A6%AC.pdf>Detail</a><br>
 
-6. Tkinter 기반 데이트 코스 추천 프로그램 제작<br>
+5. Tkinter 기반 데이트 코스 추천 프로그램 제작<br>
 사용 언어: Python<br>
 사용 툴: TkInter<br>
 구현내용: 다익스트라 알고리즘을 적용한 형태의 경로 추천 시스템 기반 데이트 코스 정보 제공<br>
-[구현영상](https://drive.google.com/file/d/1ohur6Y7gH9y1ryzI5QQx-N2khOSAzQa_/view?usp=drive_link)<br>
+[구동영상](https://drive.google.com/file/d/1ohur6Y7gH9y1ryzI5QQx-N2khOSAzQa_/view?usp=drive_link)<br>
 <a href=https://github.com/bumkimm/portfolio/blob/main/TKINTER.pdf>Detail</a>
 
-7. 반려동물 입양 애플리케이션 제작<br>
+6. 반려동물 입양 애플리케이션 제작<br>
 사용 언어: Dart<br>
 사용 툴: Flutter, FireBase, Brity RPA, 서울시공공데이터(API)<br>
-링크(앱): http://onesto.re/0001000622 <br>
-링크(구동영상): https://drive.google.com/file/d/1HveYTo-hhU8JxHnW4Je8zQoyxdYwWR6f/view?usp=drive_link <br>
+APP: http://onesto.re/0001000622 <br>
 구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작
+<a href=https://github.com/bumkimm/portfolio/blob/main/Team%20Meongjup_%EB%A9%8D%EC%A4%8D_%EC%83%81%EC%84%B8%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf>Detail</a><br>
+[구동영상](https://drive.google.com/file/d/1HveYTo-hhU8JxHnW4Je8zQoyxdYwWR6f/view?usp=drive_link)
