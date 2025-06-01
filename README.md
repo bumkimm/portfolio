@@ -24,13 +24,15 @@
 4. Brity RPA 기반 재무보고서 제작<br>
 사용 툴: Brity RPA, Excel<br>
 구현내용: RPA 기반 데이터 정제 작업을 중심으로 수집한 재무 데이터 기반 보고서 제작<br>
+[데이터 정제](https://drive.google.com/file/d/1Dm8peEFZUiMNEL0s4LVEzN5Zz2pMramb/view?usp=drive_link)
+[데이터 시각화](https://drive.google.com/file/d/1FEN7BhuVOtZat1tKjtQg6uuhFBeK1Ej9/view?usp=drive_link)
 
-5. Tkinter 기반 데이트 코스 추천 프로그램 제작<br>
+6. Tkinter 기반 데이트 코스 추천 프로그램 제작<br>
 사용 언어: Python<br>
 사용 툴: TkInter<br>
 구현내용: 다익스트라 알고리즘을 적용한 형태의 경로 추천 시스템 기반 데이트 코스 정보 제공<br>
 
-6. 반려동물 입양 애플리케이션 제작<br>
+7. 반려동물 입양 애플리케이션 제작<br>
 사용 언어: Dart<br>
 사용 툴: Flutter, FireBase, Brity RPA, 서울시공공데이터(API)<br>
 링크(앱): http://onesto.re/0001000622 <br>
