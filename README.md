@@ -40,6 +40,6 @@
 사용 언어: Dart<br>
 사용 툴: Flutter, FireBase, Brity RPA, 서울시공공데이터(API)<br>
 APP: http://onesto.re/0001000622 <br>
-구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작
+구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작<br>
 <a href=https://github.com/bumkimm/portfolio/blob/main/Team%20Meongjup_%EB%A9%8D%EC%A4%8D_%EC%83%81%EC%84%B8%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf>Detail</a><br>
 [구동영상](https://drive.google.com/file/d/1HveYTo-hhU8JxHnW4Je8zQoyxdYwWR6f/view?usp=drive_link)
