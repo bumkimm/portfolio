@@ -34,6 +34,7 @@
 사용 툴: TkInter<br>
 구현내용: 다익스트라 알고리즘을 적용한 형태의 경로 추천 시스템 기반 데이트 코스 정보 제공<br>
 [구현영상](https://drive.google.com/file/d/1ohur6Y7gH9y1ryzI5QQx-N2khOSAzQa_/view?usp=drive_link)<br>
+<a href=https://github.com/bumkimm/portfolio/blob/main/TKINTER.pdf>Detail</a>
 
 7. 반려동물 입양 애플리케이션 제작<br>
 사용 언어: Dart<br>
