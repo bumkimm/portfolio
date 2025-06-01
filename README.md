@@ -24,8 +24,9 @@
 4. Brity RPA 기반 재무보고서 제작<br>
 사용 툴: Brity RPA, Excel<br>
 구현내용: RPA 기반 데이터 정제 작업을 중심으로 수집한 재무 데이터 기반 보고서 제작<br>
-[데이터 정제](https://drive.google.com/file/d/1Dm8peEFZUiMNEL0s4LVEzN5Zz2pMramb/view?usp=drive_link)
-[데이터 시각화](https://drive.google.com/file/d/1FEN7BhuVOtZat1tKjtQg6uuhFBeK1Ej9/view?usp=drive_link)
+[데이터 정제](https://drive.google.com/file/d/1Dm8peEFZUiMNEL0s4LVEzN5Zz2pMramb/view?usp=drive_link)<br>
+[데이터 시각화](https://drive.google.com/file/d/1FEN7BhuVOtZat1tKjtQg6uuhFBeK1Ej9/view?usp=drive_link)<br>
+<a href=https://github.com/bumkimm/portfolio/blob/main/RPA%20%EC%9E%AC%EB%AC%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%95%EB%A6%AC.pdf>Detail</a><br>
 
 6. Tkinter 기반 데이트 코스 추천 프로그램 제작<br>
 사용 언어: Python<br>
