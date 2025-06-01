@@ -11,6 +11,7 @@
 사용언어: C#<br>
 사용 툴: Unity, Anaconda<br>
 구현내용: PPO 알고리즘 기반 드론의 물건 배송 프로그램 제작<br>
+<a href=https://github.com/bumkimm/portfolio/blob/main/%EB%93%9C%EB%A1%A0%20%EB%B0%B0%EC%86%A1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf>PPT</a><br>
 <a href=https://github.com/bumkimm/portfolio/blob/main/Unity%20Drone%20Delivery.pdf>보고서</a><br>
 [구동영상](https://drive.google.com/file/d/1ITXpDM-npArzOeZQVAE65ejhW40isow8/view?usp=drive_link)
 
