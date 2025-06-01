@@ -4,7 +4,7 @@
 사용언어: C#<br>
 사용 툴: Unity, Anaconda<br>
 구현내용: PPO 알고리즘 기반 자동주차 강화학습 모델 제작<br>
-PPT: <a href=https://github.com/bumkimm/portfolio/blob/main/1.%20%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%B0%A8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%A0%9C%EC%9E%91.pdf>링크로 이동</a>
+PPT: <a href=https://github.com/bumkimm/portfolio/blob/main/1.%20%EA%B0%95%ED%99%94%20%ED%95%99%EC%8A%B5%20%EA%B8%B0%EB%B0%98%20%EC%9E%90%EB%8F%99%20%EC%A3%BC%EC%B0%A8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%A0%9C%EC%9E%91.pdf>링크로 이동</a><br>
 보고서: 
 
 3. 강화학습 기반 드론 물건 배송 프로그램 제작<br>
