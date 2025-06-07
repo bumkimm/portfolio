@@ -43,3 +43,9 @@ APP: http://onesto.re/0001000622 <br>
 구현내용: Flutter 기반 반려동물 입양 정보 제공 및 실종 신고 기능 탑재한 Android OS 형태의 애플리케이션 제작<br>
 <a href=https://github.com/bumkimm/portfolio/blob/main/Team%20Meongjup_%EB%A9%8D%EC%A4%8D_%EC%83%81%EC%84%B8%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf>Detail</a><br>
 [구동영상](https://drive.google.com/file/d/1HveYTo-hhU8JxHnW4Je8zQoyxdYwWR6f/view?usp=drive_link)
+
+7. 이력서 작성 프로그램 제작<br>
+사용 언어: Python<br>
+사용 툴: Django, OpenAI API, SQLite<br>
+구현내용: Django 기반 이력서 작성 프로그램 제작<br>
+[구동영상](https://drive.google.com/file/d/1TYAFk77QYR1A4omXyEKYlvVOHcZhIhAC/view?usp=drive_link)
