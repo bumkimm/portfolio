@@ -48,4 +48,5 @@ APP: http://onesto.re/0001000622 <br>
 사용 언어: Python<br>
 사용 툴: Django, OpenAI API, SQLite<br>
 구현내용: Django 기반 이력서 작성 프로그램 제작<br>
+<a href=https://github.com/bumkimm/portfolio/blob/main/CareerPop.pdf>Detail</a><br>
 [구동영상](https://drive.google.com/file/d/1TYAFk77QYR1A4omXyEKYlvVOHcZhIhAC/view?usp=drive_link)
